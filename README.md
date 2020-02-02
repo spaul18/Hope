@@ -1,2 +1,5 @@
 # Hope
 App for empowering women with their mental health.
+
+Mental health is something that has only recently started to become a topic openly discussed with others. Especially with a generation obsessed with technology and social media, a lot of people take onto social media to express their unspoken emotions. With Hope, women can befriend and connect with people of their choice (between friends or female therapists), and if none of those options appeal the user, they may choose to explore the app on their own by selecting ‘you’re not alone’. 
+This is a place where women can connect with other women to learn about mental health statistics alongside interacting with others. To voice out one’s emotions is a very brave thing to do since words cannot always do justice to coloring out one’s feelings to the public. This application is a private space for women who do not have the privilege to spend money or physical time on private therapy sessions. Nonetheless, this application is also for women who simply want to chat/text about their feelings or talk to others about their feelings without having someone labeling them as a “complainer”. 
